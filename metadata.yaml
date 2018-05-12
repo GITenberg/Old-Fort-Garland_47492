@@ -1,9 +1,13 @@
 _repo: Old-Fort-Garland_47492
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Rossi, Paul
     gutenberg_agent_id: '44345'
     url: http://www.gutenberg.org/2009/agents/44345
+covers:
+- cover_type: archival
+  image_path: 47492-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Slack, Rosamund
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '44343'
     url: http://www.gutenberg.org/2009/agents/44343
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47492#Old-Fort-Garland
 gutenberg_issued: '2014-11-29'
 gutenberg_type: Text
 identifiers:
